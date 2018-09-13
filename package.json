@@ -1,0 +1,22 @@
+{
+  "name": "nodeauth",
+  "version": "1.0.0",
+  "description": "node js Authentication  application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Srinivas Dadhapur",
+  "license": "ISC",
+  "dependencies": {
+    "express": "*",
+    "mongoose": "*",
+    "bcryptjs": "*",
+    "cors": "*",
+    "body-parser": "*",
+    "passport": "*",
+    "jsonwebtoken": "*",
+    "passport-jwt": "*"
+  }
+}
