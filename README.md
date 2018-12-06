@@ -2,4 +2,4 @@
 
 a simple web site with a register, login functionality
 
-writtein in nodejs, angular, mongodb
+written in nodejs, angular, mongodb
